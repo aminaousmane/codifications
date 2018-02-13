@@ -19,7 +19,8 @@
                       <div class="field">
                         <label>Niveau</label>
                         <select  name="niveau" type="text">
-                      <option>1 </option>
+                          <option value="0">Rez-de-chaussée </option>
+                          <option>1 </option>
                           <option>2</option>
                           <option>3</option>
                           <option>4</option>

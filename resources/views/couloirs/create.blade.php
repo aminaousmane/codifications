@@ -26,7 +26,7 @@
                   <div class="field">
                     <label>Etage</label>
                     <select  name="etage" type="text">
-                          <option>0</option>
+                          <option value="0">Rez-de-chaussée</option>
                           <option>1 </option>
                           <option>2</option>
                           <option>3</option>
